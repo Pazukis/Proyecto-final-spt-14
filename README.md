@@ -55,7 +55,7 @@ Analizar una base de datos de una aplicación de lectura para generar una propue
 ---
 
  Descomposicón del Proyecto - notebook (8)
- 
+ Proyecto de pruebas A/B - notebook (9)
 
 ---
 
