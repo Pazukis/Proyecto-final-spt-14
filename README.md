@@ -9,7 +9,7 @@ Analizar una base de datos de una aplicación de lectura para generar una propue
 
 ---
 
-## Tareas Descompuestas
+## Tareas Descompuestas 
 
 ### 1. Conexión y Exploración Inicial
 - [ ] Conectarse a la base de datos proporcionada
@@ -51,6 +51,11 @@ Analizar una base de datos de una aplicación de lectura para generar una propue
 - Todas las consultas deben realizarse con SQL
 - Usar `pandas` solo para mostrar y almacenar resultados
 - Documentar cada paso con conclusiones claras
+
+---
+
+ Descomposicón del Proyecto - notebook (8)
+ 
 
 ---
 
